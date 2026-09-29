@@ -23,11 +23,11 @@
 
 
 3\. Basic Project Flow The application starts with a menu:
-	========================================
+
 
 &#x09;   STUDENT RESULT MANAGEMENT SYSTEM
 
-&#x09;========================================
+
 
 1\. Add Student
 
